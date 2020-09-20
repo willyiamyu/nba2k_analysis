@@ -1,0 +1,8 @@
+numpy
+ipywidgets
+nbinteract
+sklearn
+matplotlib
+seaborn
+plotly
+xgboost
