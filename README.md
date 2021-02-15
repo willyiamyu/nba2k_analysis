@@ -1,4 +1,4 @@
-# NBA 2K Ratings and their relation to Real Life Stats
+# NBA 2K Rating System Using Real Stats
 Ever heard of a game called NBA 2K? Hailed for its realistic graphics, gameplay, and attention to detail, there's no other basketball game quite like it. But how does the game compare to the real thing? 
 More specifically, how does it capture the skill gap between NBA superstars and the 10-day contract players?
 
