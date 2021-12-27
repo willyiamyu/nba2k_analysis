@@ -1,6 +1,5 @@
-# NBA 2K Rating System Using Real Stats
-Ever heard of a game called NBA 2K? Hailed for its realistic graphics, gameplay, and attention to detail, there's no other basketball game quite like it. But how does the game compare to the real thing? 
-More specifically, how does it capture the skill gap between NBA superstars and the 10-day contract players?
+# NBA 2K Rating System Using Real Stats 
+iPython Notebook in which we try to reverse engineer NBA 2K ratings system using real NBA box scores. Using XGBoost and Ridge Regression.
 
 In this project, we take a deep dive into NBA 2K's rating system, and how it relates to player performance in the real world. We look at the key features that go into predicting a ranking, as well as look at the average statistics for each rating. 
 
